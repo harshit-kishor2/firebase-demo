@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665892873214",
+    "project_id": "reactnativedemo-c1614",
+    "storage_bucket": "reactnativedemo-c1614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665892873214:android:342c5870667b3188f816af",
+        "android_client_info": {
+          "package_name": "com.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665892873214-fkoetfl3egf0vrq5de4m2u1a4fopn6tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKQoZDKljPj7fBpO20Uu7H76dhRsfLJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665892873214-fkoetfl3egf0vrq5de4m2u1a4fopn6tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
